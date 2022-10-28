@@ -1,0 +1,4 @@
+SELECT table_name FROM information_schema.tables WHERE table_type = 'BASE table' --- вывести список таблиц
+SELECT count(*) FROM information_schema.tables --- вывести количество таблиц
+SELECT * FROM grades JOIN users ON users.user_id = grades.user_id --- поиск ученика, получившего оценку
+SELECT * FRM users WHERE users.name = 'Олег' --- поиск ученика с именем Олег
