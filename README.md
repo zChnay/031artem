@@ -16,5 +16,7 @@ SQL-команды https://tproger.ru/translations/sql-recap/
 Фаилы с припиской bd - фаилы для работы с заданной базой данных
 
 $$ S=V_{0}t +(a*t^{2})/2 $$
+$$ F_{A}=ρ_{ж}*g*V_{п/ч} $$
+$$ \overline{E_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}} $$
 
-![N|Solid]()
+![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114712753/201246727-6c5c4268-9004-4b52-b0e8-7f626feaf818.png)
