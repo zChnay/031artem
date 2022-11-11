@@ -17,4 +17,4 @@ SQL-команды https://tproger.ru/translations/sql-recap/
 
 $$ S=V_{0}t +(a*t^{2})/2 $$
 
-![N|Solid](https://ru-static.z-dn.net/files/dc1/8e1c0174971c21967d0a991da13692b9.gif)
+![N|Solid]()
