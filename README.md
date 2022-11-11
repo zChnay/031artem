@@ -14,3 +14,5 @@ SQL-команды https://tproger.ru/translations/sql-recap/
 
 
 Фаилы с припиской bd - фаилы для работы с заданной базой данных
+
+$$ S=V_{0}t +(a*t^{2})/2 $$
