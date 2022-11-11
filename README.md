@@ -15,7 +15,7 @@ SQL-команды https://tproger.ru/translations/sql-recap/
 
 Фаилы с припиской bd - фаилы для работы с заданной базой данных
 
-$$ S=V_{0}t +(a*t^{2})/2 $$
+$$ \overrightarrow{S}=\overrightarrow{V_{0}}t +\frac{\overrightarrow{{a}t^2}}{2} $$
 $$ F_{A}=ρ_{ж}*g*V_{п/ч} $$
 $$ \overline{E_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}} $$
 
