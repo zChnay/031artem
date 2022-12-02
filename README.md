@@ -18,4 +18,4 @@ SQL-команды https://tproger.ru/translations/sql-recap/
 Latex.md - фаил с формулами по физике
 
 
-Фаилы викторина - опросник иностранных языков
+VICTORINA.py - викторина по иностранным языкам
