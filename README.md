@@ -22,3 +22,6 @@ VICTORINA.py - викторина по иностранным языкам
 
 
 Мой профиль CodePen 
+
+
+![mermaid-diagram-2022-12-23-092351](https://user-images.githubusercontent.com/114712753/209259029-23b7d4bd-4561-4216-bd85-7bdd55e22e46.png)
