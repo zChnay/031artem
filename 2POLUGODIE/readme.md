@@ -7,7 +7,7 @@
 |5|Ready|
 |6|In process...|
 |7|In process...|
-|8|In process...|
+|8|Almost ready|
 |9|In process...|
 |10|In process...|
 |11|In process...|
