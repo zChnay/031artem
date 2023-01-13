@@ -4,7 +4,7 @@
 |2|In process...|
 |3|In process...|
 |4|In process...|
-|5|In process...|
+|5|Ready|
 |6|In process...|
 |7|In process...|
 |8|In process...|
